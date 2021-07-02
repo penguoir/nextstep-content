@@ -1,15 +1,16 @@
 ---
 title: Front end web development
+slug: front-end
 parts:
   - tips-for-learning
-	- development-environment
-	- html-css-js
-	- useful-development-tools
-	- some-history
-	- showing-valueable-data
-	- development-tools
-	- react-and-other-libraries
-	- devops
-	- business-and-ethics
-	- final-words
+  - development-environment
+  - html-css-js
+  - beginner-development-tools
+  - some-history
+  - showing-valueable-data
+  - advanced-development-tools
+  - react-and-other-libraries
+  - devops
+  - business-and-ethics
+  - final-words
 ---
