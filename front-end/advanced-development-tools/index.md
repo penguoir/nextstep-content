@@ -6,7 +6,7 @@ chapters:
   - webpack
   - npm
   - typescript
-  - SASS
+  - sass
 ---
 
 Developers love making their lives easier. These tools make developing websites
