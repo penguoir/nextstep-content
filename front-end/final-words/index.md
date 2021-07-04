@@ -5,6 +5,6 @@ slug: final-words
 
 Congratulations on completing this course. Hopefully, you feel confident as a
 front-end web developer. If you have any ideas for improving the syllabus, please
-[fill out an issue on GitHub][kea-github].
+[fill out an issue on GitHub][nextstep-github].
 
-[kea-github]: https://github.com/penguoir/kea/issues
+[nextstep-github]: https://github.com/penguoir/nextstep-content/issues
