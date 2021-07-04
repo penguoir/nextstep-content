@@ -3,7 +3,7 @@ title: Business and ethics
 slug: business-and-ethics
 chapters:
   - privacy
-  - SEO
+  - seo
   - ads
 ---
 
