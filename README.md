@@ -53,7 +53,7 @@ Feel free to create pull requests for any typos or grammatical mistakes.
 
 For more significant changes, [make an issue][issue] to discuss the change first.
 
-[make an issue]: https://github.com/penguoir/nextstep-content/issues/new
+[issue]: https://github.com/penguoir/nextstep-content/issues/new
 
 
 Sponsors
