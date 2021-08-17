@@ -3,9 +3,9 @@ title: Testing
 slug: testing
 ---
 
-Tests are code which makes sure that other code works as expected.
+Tests are code that makes sure that other code works as expected.
 
-Writing code which tests other code might seem like a waste of time, but it's a
+Writing code that tests other code might seem like a waste of time, but it's a
 valuable practice. Writing tests means you know that even if you change your
 code, it will still work as expected.
 
@@ -17,7 +17,7 @@ There are different kinds of tests. The main tests developers write are:
 **System tests** test multiple parts of the application together. For example,
 a request to your web server.
 
-**Unit tests** test singluar parts of the application. For example, a function.
+**Unit tests** test singular parts of the application—for example, a function.
 
 1. Write a test for the following function
 
@@ -44,17 +44,17 @@ a request to your web server.
     simply run the tests inside. See [the Mocha
     documentation](https://mochajs.org/) for more details.
 
-2. Write tests for 5 Lodash functions of your choice. Try to figure out edge
+2. Write tests for 5 Lodash functions of your choice. Try to figure out the edge
    cases of the functions, and test those too.
 
-3. Most repositories use a more complicated test suite. This is not necessary,
-   but will help when testing more complex frameworks such as React. Read [the
-   Jest documentation](https://jestjs.io/docs/getting-started), and complete the
-   Getting Started page.
+3. Most repositories use a more complicated test suite. Test suites are not
+   necessary but will help when testing more complex frameworks such as React.
+   Read [the Jest documentation](https://jestjs.io/docs/getting-started), and
+   complete the Getting Started page.
 
 4. Write tests for a React project you've done previously.
 
-   You can test React projects using Jest. A good library that simplifies this
+   You can test React projects using Jest. A library that simplifies this
    process is
    [react-testing-library](https://github.com/testing-library/react-testing-library).
    For examples of React component tests, see the [Chakra UI on
@@ -62,5 +62,5 @@ a request to your web server.
 
 OPTIONAL: Read [Testing
 Rails](https://books.thoughtbot.com/assets/testing-rails.pdf). This guide is
-intended for Ruby on Rails, but the principles can be brought over to any
+intended for Ruby on Rails, but you can bring over the principles to any
 programming language.

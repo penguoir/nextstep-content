@@ -3,7 +3,7 @@ title: CI/CD
 slug: ci-cd
 ---
 
-Continuous integration/Continuous delivery (CI/CD) is a system which allows
+Continuous integration/Continuous delivery (CI/CD) is a system that allows
 developers to update code efficiently. CI/CD systems usually take the following
 form:
 

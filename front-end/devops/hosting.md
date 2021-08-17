@@ -7,7 +7,7 @@ For people to visit your website, a computer needs to send HTML, CSS, and
 JavaScript files to the user's computer. The computer that sends these files is
 called a "server".
 
-You should not use your own computer as a server. If your computer shuts down or
+You should not use your computer as a server. If your computer shuts down or
 needs to restart, your site goes down. Also, hackers could get into your local
 network and steal your information if your server has security flaws.
 
@@ -21,7 +21,7 @@ example:
 
 * Ensuring there are no security vulnerabilities
 * Copying in the latest code every time you make a change.
-* Setting up and maintaining the environment of the computer (installing `npm`,
+* Setting up and maintaining the computer's environment (installing `npm`,
 `node`, etc.)
 
 There are solutions to these problems. Instead of accessing just a computer,
@@ -41,4 +41,4 @@ Some popular websites include:
 
 **Note:** As a front-end web developer, this usually isn't your problem.
 But, it's good to have an idea of how this all works. Also, if you want to
-publish your own website, you should know how to do so.
+publish your website, you should know how to do so.
