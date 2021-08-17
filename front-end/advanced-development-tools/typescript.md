@@ -11,4 +11,3 @@ slug: typescript
 [typescript-tooling]: https://www.staging-typescript.org/docs/handbook/typescript-tooling-in-5-minutes.html
 
 - TypeScript works amazingly on Visual Studio Code.
-

@@ -5,7 +5,7 @@ slug: git
 
 Git is software that manages the versions of your code.
 
-1. Install Git on your computer. Download [Github Desktop][github-desktop],
+1. Install Git on your computer. Download [GitHub Desktop][github-desktop];
 it will install Git for you.
 2. Install [Git-it][git-it] and complete all the tutorials.
 

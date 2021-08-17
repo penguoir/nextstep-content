@@ -17,7 +17,7 @@ Webpack allows you to:
 your HTML.
 - Run programs on your JavaScript to make the final code better
 
-1. Complete [the webpack getting started guide][webpack-getting-started]
+1. Complete [the Webpack getting started guide][webpack-getting-started]
 2. Try out [installing Babel][installing-babel]
 
 [webpack-getting-started]: https://webpack.js.org/guides/getting-started/
