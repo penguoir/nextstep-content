@@ -12,6 +12,7 @@ Most front-end web development jobs will require you to know React.
   5. Look through [sample React projects]
 
   TODO: i need more info
+        create-react-app!!
 
 [react-tutorial]: https://reactjs.org/tutorial/tutorial.html
 [react-main-concepts]: https://reactjs.org/docs/hello-world.html

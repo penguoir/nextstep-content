@@ -11,6 +11,7 @@ written. By using Bootstrap, you'll save time writing CSS.
 
 [bootstrap]: https://getbootstrap.com/
 
-Bootstrap is one example of a CSS library. There are [other CSS libraries][css-frameworks] but lots of sites use Bootstrap.
+Bootstrap is one example of a CSS library. There are [other CSS
+libraries][css-frameworks] but lots of sites use Bootstrap.
 
 [css-frameworks]: https://github.com/troxler/awesome-css-frameworks

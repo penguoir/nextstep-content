@@ -7,5 +7,6 @@ chapters:
   - ads
 ---
 
-To launch websites that represent your business or make money, you must know
-about the following topics:
+When making websites, it's important to consider privacy, SEO, and
+advertisements. These chapters explain why each matter, and walk you through how
+to learn more on each.
