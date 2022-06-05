@@ -3,7 +3,7 @@ title: Lodash
 slug: lodash
 ---
 
-Developers use [Lodash] to prevent having to write standard algorithms.
+Developers use [Lodash] to avoid writing standard algorithms.
 
 An example:
 

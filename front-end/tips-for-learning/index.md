@@ -7,8 +7,8 @@ Use the following tips to be more efficient with your learning.
 
 * **Don't copy-paste.**
 
-  If you copy-paste, you won't encounter as many bugs as you would when working
-  usually. Programming is 80% debugging.
+  If you copy-paste, you won't encounter as many bugs as you would when usually
+  working. Programming is 80% debugging.
 
 * **Read the entire chapter before moving on.**
 
@@ -18,7 +18,7 @@ Use the following tips to be more efficient with your learning.
 * **Read slowly and methodically. When you get impatient, take a break.**
 
   Documentation is often insightful but boring. Everyone gets impatient, take
-  a five-minute break when it happens.
+  a five-minute break when you aren't focused.
 
 * **Do not watch video tutorials. If you must, immediately apply what you've learned.**
 

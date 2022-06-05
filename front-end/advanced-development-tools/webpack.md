@@ -24,8 +24,9 @@ your HTML.
 [installing-babel]: https://babeljs.io/
 
 - Webpack's documentation has fancy words like 'static module bundler',
-'dependency graph', and 'tree shaking'. Don't worry about these too much;
-they're just for marketing.
+  'dependency graph', and 'tree shaking'. Don't worry about these terms too
+  much, they're talking about the implementation of Webpack, so you don't need
+  to understand them unless you do advanced work with it.
 - Babel takes your JavaScript code and changes it, so it works on every browser.
 - Webpack can do a lot more than what you've seen in this chapter. If it
 interests you, work through [the Webpack guides][webpack-guides]

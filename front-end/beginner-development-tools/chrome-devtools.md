@@ -5,8 +5,8 @@ slug: chrome-devtools
 
 Chrome and other browsers provide a panel for troubleshooting your code.
 
-1. Instsall [Chrome][chrome-install] (if you don't have it already).
-2. Skim through [the documentation for Chrome Devtools][chrome-devools]
+1. Install [Chrome][chrome-install] (if you don't have it already).
+2. Skim through [the documentation for Chrome Devtools][chrome-devtools]
 
 [chrome-install]: https://chrome.google.com
 [chrome-devtools]: https://developer.chrome.com/docs/devtools/overview/

@@ -40,9 +40,9 @@ anonymized data.**
 Some services provide useful functionality, but infringe on user privacy. For
 example, Google Analytics, Google Fonts, and the Facebook pixel.
 
-1. Read [the article on privacy][privacy-article]
-2. Read [which services to avoid][services-to-avoid]
-3. Read [why you should not use Google Analytics][remove-google-analytics]
+1. Read through [the article on privacy][privacy-article]
+2. Read through [which services to avoid][services-to-avoid]
+3. Read through [why you should not use Google Analytics][remove-google-analytics]
 
 [privacy-article]: https://medium.com/@FabioAEsteves/i-have-nothing-to-hide-why-should-i-care-about-my-privacy-f488281b8f1d
 [services-to-avoid]: https://markosaric.com/degoogleify/

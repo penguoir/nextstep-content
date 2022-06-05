@@ -5,12 +5,15 @@ slug: javascript
 
 JavaScript adds interactivity to your site.
 
+<!-- TODO: find a better resource for OO -->
+
   1. Complete the [JavaScript course on Codecademy][codeacademy-js].
-     TODO: find a better resource for OO
   2. Reach 100 "honour" on [Codewars][codewars].
   3. Read [this Mozilla article][mozilla-dom], and complete the challenge at the
      end of it.
 
+[codeacademy-js]: https://www.codecademy.com/learn/introduction-to-javascript
+[codewars]: https://www.codewars.com
 [mozilla-dom]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 
 * This will be tricky if you haven't used any programming language before. If

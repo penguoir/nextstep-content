@@ -4,7 +4,7 @@ slug: sass
 ---
 
 SASS is a tool that compiles your CSS files. SASS adds features to CSS to make
-it more scaleable. For example, variables, functions, and nesting.
+it more scaleable. For example, it adds variables, functions, and nesting.
 
 1. Read through [this gist that goes through SASS examples][sass-examples].
 

@@ -6,7 +6,7 @@ parts:
   - development-environment
   - html-css-js
   - beginner-development-tools
-  - some-history
+  - some-theory
   - showing-valueable-data
   - advanced-development-tools
   - react-and-other-libraries
